@@ -1,7 +1,10 @@
 # EV-Data-Analysis
 Tableau project analyzing Electric Vehicle (EV) data, focusing on key trends and insights for the EV market using interactive visualizations.
 
-### **KPI Requirements:**
+*<img width="984" alt="Screenshot 2024-10-11 at 4 38 52 PM" src="https://github.com/user-attachments/assets/606c76a5-adb0-4bca-a5f9-5e9e47ec714f">
+
+### **KPI Requirements:*
+
 1. **Total Vehicles:**
    - Understand the overall landscape of electric vehicles (BEVs and PHEVs) to assess the market's size and growth.
    
